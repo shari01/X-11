@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sharyer038
+- 👀 I’m interested in bug-hunting
+- 🌱 I’m currently learning pen-testing
+- 💞️ I’m looking to collaborate HackerOne
+-
